@@ -9,7 +9,7 @@
 </p>
 <br/>
 
-- 🌱 Currently Pursuing MCA at <b>NIT, Trichy</b> .<br>
+- 🌱 Currently Pursuing MCA at <b>NIT, Warangal</b> .<br>
 - 📖 Learning new things daily.<br>
 - 👨‍💻 Solving DSA .<br>
                                                                                         
