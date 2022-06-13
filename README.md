@@ -6,6 +6,7 @@
 <p align="center">
 <a href="https://www.hackerrank.com/JerryDevilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prabhat" height="30" width="40" /></a>
 <a href="https://leetcode.com/jerry_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prabhat" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prabhatc7879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Prabhat" height="30" width="40" /></a>
 </p>
 <br/>
 
