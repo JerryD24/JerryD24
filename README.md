@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhat Singh Rajput</h1>
-<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot | Kafka | Microservices</h3>
+<h3 align="center">Experienced Software Engineer | Java Backend Developer | Spring Boot | Kafka | Microservices</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhat-singh-rajput-683a55200/">
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 💼 Software Engineer at **Amdocs**
+- 💼 Experienced Software Engineer at **Amdocs**
 - ☕ Backend Developer specializing in **Java, Spring Boot, and Distributed Systems**
 - ⚡ Building scalable **Microservices & Event-Driven Architectures**
 - 📨 Experienced with **Apache Kafka, REST APIs, and Enterprise Integrations**
